@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "Hello TechPrimers";
+        return "Hello From Damayanti --> Building CICD Pipeline in AWS";
     }
 }
